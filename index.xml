@@ -2,71 +2,71 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>LNW</title>
-    <link>https://randcoo.github.com/</link>
+    <link>https://randcoo.github.io/</link>
     <description>Recent content on LNW</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
-    <lastBuildDate>Tue, 04 Jan 2022 15:13:42 +0800</lastBuildDate><atom:link href="https://randcoo.github.com/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 04 Jan 2022 15:13:42 +0800</lastBuildDate><atom:link href="https://randcoo.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Test1</title>
-      <link>https://randcoo.github.com/post/test1/</link>
+      <link>https://randcoo.github.io/post/test1/</link>
       <pubDate>Tue, 04 Jan 2022 15:13:42 +0800</pubDate>
       
-      <guid>https://randcoo.github.com/post/test1/</guid>
+      <guid>https://randcoo.github.io/post/test1/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Test2</title>
-      <link>https://randcoo.github.com/post/test2/</link>
+      <link>https://randcoo.github.io/post/test2/</link>
       <pubDate>Tue, 04 Jan 2022 15:13:42 +0800</pubDate>
       
-      <guid>https://randcoo.github.com/post/test2/</guid>
+      <guid>https://randcoo.github.io/post/test2/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Test</title>
-      <link>https://randcoo.github.com/post/test/</link>
+      <link>https://randcoo.github.io/post/test/</link>
       <pubDate>Tue, 04 Jan 2022 14:29:59 +0800</pubDate>
       
-      <guid>https://randcoo.github.com/post/test/</guid>
+      <guid>https://randcoo.github.io/post/test/</guid>
       <description>swagger使用 前端 接口认证流程基于Token，访问接口时除了公开接口，如注册，登录等都需要带上token进行访问，在swagger中可以这样测试接口 第一步：登录 登录接口时公开接口，不需要登录认证，可以直接登陆，登录成功后会返回token 第二步：设置Token 点击页面的Auth</description>
     </item>
     
     <item>
       <title>关于我</title>
-      <link>https://randcoo.github.com/about/</link>
+      <link>https://randcoo.github.io/about/</link>
       <pubDate>Tue, 10 Mar 2015 00:13:27 +0000</pubDate>
       
-      <guid>https://randcoo.github.com/about/</guid>
+      <guid>https://randcoo.github.io/about/</guid>
       <description>公众号，扫码关注</description>
     </item>
     
     <item>
       <title>工具</title>
-      <link>https://randcoo.github.com/tools/</link>
+      <link>https://randcoo.github.io/tools/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://randcoo.github.com/tools/</guid>
+      <guid>https://randcoo.github.io/tools/</guid>
       <description></description>
     </item>
     
     <item>
       <title>归档</title>
-      <link>https://randcoo.github.com/archives/</link>
+      <link>https://randcoo.github.io/archives/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://randcoo.github.com/archives/</guid>
+      <guid>https://randcoo.github.io/archives/</guid>
       <description></description>
     </item>
     
     <item>
       <title>搜索</title>
-      <link>https://randcoo.github.com/search/</link>
+      <link>https://randcoo.github.io/search/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://randcoo.github.com/search/</guid>
+      <guid>https://randcoo.github.io/search/</guid>
       <description></description>
     </item>
     
